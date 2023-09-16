@@ -1,0 +1,26 @@
+#Navbar{
+    /* width: 20%; */
+    /* border: 1px solid blue; */
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    color: rgb(27, 27, 65);
+    background-color: rgb(235, 189, 205);
+
+}
+#logo{
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#other{
+    width: 30%;
+}
+#other{
+    display: flex;
+    justify-content: space-around;
+}
+
